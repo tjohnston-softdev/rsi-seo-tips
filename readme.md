@@ -57,11 +57,13 @@ Here are some examples:
 
 \
 ![Response Services Incorporated Logo](./images/logo.jpg)
+\
 This is the Response logo. It's alt text might be “Response Logo” or “Response Services Incorporated Logo”
 
 \
 \
 ![Tabby Cat](./images/tabby-cat.jpg)
+\
 This is a picture of a Cat. It's alt text might be “Cat” or “Tabby Cat”.
 
 \
