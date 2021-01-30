@@ -89,7 +89,7 @@ For example:
 ![Page List](./images/page-list.jpg)
 
 \
-It may be difficult to read, but this is a picture of the page management screen for the Response WordPress site. You may notice the Green dots on the far-right for each page.
+This is a picture of the page management screen for the Response WordPress site. You may notice the Green dots on the far-right for each page.
 
 * The left one refers to Search Engine Optimization and uses a traffic light icon.
 * The right one refers to Readability and uses a feather icon.
@@ -304,7 +304,7 @@ This repository is based on an internal document I wrote as part of the IT team 
 
 I wrote the original version of this document on 8-9 August 2017. As such, the information in this report is relevant to that time frame and may not be accurate or up-to-date as of present.
 
-The document was converted to markdown on 17 January 2021. Any organization-specific information was removed, or rewritten to fit with the general topic. I also corrected typos, corrected grammar mistakes, and summarized unnecessarily long or redundant text. The revised document was then shared publicly on 19 January 2021.
+The document was converted to markdown on 17 January 2021. Any organization-specific information was removed, or rewritten to fit with the general topic. I also corrected typos, corrected grammar mistakes, and summarized unnecessarily long or redundant text. The revised document was then shared publicly to GitLab on 19 January 2021. It was later migrated to GitHub on 30 January 2021.
 
 The original sources for the SEO information have been linked in the [Further Reading](#further-reading) section. All links have been verified as of 17 January 2021. The information I used for this document is the property of its respective legal owners.
 
