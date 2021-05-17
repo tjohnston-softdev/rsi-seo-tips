@@ -301,7 +301,7 @@ If you wish to read more authoritative information, here are links to the resour
 ## Disclaimer
 This repository is based on an internal document written as part of the IT team at Response Services Incorporated. It was originally written on 8-9 August 2017. As such, the information in this report is relevant to that time frame and may not be accurate or up-to-date as of present.
 
-The document was converted to markdown on 17 January 2021. Any organization-specific information was removed, or rewritten to fit with the general topic. Typos and grammar mistakes have been corrected where applicable. Unnecessarily long or redundant text has been summarized. The revised document was shared publicly to GitLab on 19 January 2021, and migrated to GitHub on 30 January 2021.
+The document was converted to markdown on 17 January 2021. Any organization-specific information was removed, or rewritten to fit with the general topic. Typos and grammar mistakes have been corrected where applicable. Unnecessarily long or redundant text has been summarized. The revised document was shared publicly to GitLab on 19 January 2021, and migrated to GitHub on 30 January 2021. The document was declared to be final on 17 May 2021.
 
 The original sources for the SEO information have been linked in the [Further Reading](#further-reading) section. All links have been verified as of 17 January 2021. The information used for this document is the property of its respective legal owners.
 
@@ -314,6 +314,3 @@ The [Yoast SEO](https://yoast.com/) plug-in screencaps are original work and use
 This document as a whole is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
-
-
-
