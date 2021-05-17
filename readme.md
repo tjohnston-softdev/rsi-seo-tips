@@ -299,22 +299,21 @@ If you wish to read more authoritative information, here are links to the resour
 ---
 
 ## Disclaimer
-This repository is based on an internal document I wrote as part of the IT team at Response Services Incorporated. I was asked to learn about Search Engine Optimization techniques and apply them as best I could to their WordPress site. I was then asked to compile my research into a document for future reference.
+This repository is based on an internal document written as part of the IT team at Response Services Incorporated. It was originally written on 8-9 August 2017. As such, the information in this report is relevant to that time frame and may not be accurate or up-to-date as of present.
 
-I wrote the original version of this document on 8-9 August 2017. As such, the information in this report is relevant to that time frame and may not be accurate or up-to-date as of present.
+The document was converted to markdown on 17 January 2021. Any organization-specific information was removed, or rewritten to fit with the general topic. Typos and grammar mistakes have been corrected where applicable. Unnecessarily long or redundant text has been summarized. The revised document was shared publicly to GitLab on 19 January 2021, and migrated to GitHub on 30 January 2021.
 
-The document was converted to markdown on 17 January 2021. Any organization-specific information was removed, or rewritten to fit with the general topic. I also corrected typos, corrected grammar mistakes, and summarized unnecessarily long or redundant text. The revised document was then shared publicly to GitLab on 19 January 2021. It was later migrated to GitHub on 30 January 2021.
-
-The original sources for the SEO information have been linked in the [Further Reading](#further-reading) section. All links have been verified as of 17 January 2021. The information I used for this document is the property of its respective legal owners.
+The original sources for the SEO information have been linked in the [Further Reading](#further-reading) section. All links have been verified as of 17 January 2021. The information used for this document is the property of its respective legal owners.
 
 The [Response Logo](./images/logo.jpg) belongs to Response Services Incorporated and was used with implicit permission as an employee.
 
-The [Cat](https://commons.wikimedia.org/wiki/File:Tabby_cat_with_blue_eyes-3336579.jpg) image file was retrieved from  Wikimedia Commons on 17 January 2021. The original version of the file came from [Pixabay](https://pixabay.com/photos/cat-blue-eyes-pet-feline-3336579/), which is freely [licensed](https://pixabay.com/service/license/) for both personal and commercial use. This is not the same Cat image I used for the original document. I was uncertain about it's source and the copyright behind it so I replaced it with a 'Creative Commons' image just to be sure.
+The [Cat](https://commons.wikimedia.org/wiki/File:Tabby_cat_with_blue_eyes-3336579.jpg) image file was retrieved from  Wikimedia Commons on 17 January 2021. The original version of the file came from [Pixabay](https://pixabay.com/photos/cat-blue-eyes-pet-feline-3336579/), which is freely [licensed](https://pixabay.com/service/license/) for both personal and commercial use. This is not the same Cat image used for the original document. The source and copyright was uncertain so it has been replaced with a 'Creative Commons' image.
 
-The [Yoast SEO](https://yoast.com/) plug-in screencaps are my own work and used to explain the plug-in's features.
+The [Yoast SEO](https://yoast.com/) plug-in screencaps are original work and used to explain the plug-in's features.
 
 This document as a whole is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ![Creative Commons Licence](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+
 
 
